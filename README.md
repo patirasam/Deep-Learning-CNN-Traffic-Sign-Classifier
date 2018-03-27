@@ -4,5 +4,5 @@ The main goal of this project is to learn Keras and Convoluted Neural Network in
 Model is designed to recognize and classify traffic signs.  
 This model can be further used in automated driving cars.  
 Dataset is taken from The German Traffic Sign Recognition Benchmark. http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset.  
-Code is adopted from https://chsasank.github.io/keras-tutorial.html.  
+For loading and precossing ofimages, code is adopted from https://chsasank.github.io/keras-tutorial.html.  
 Used Amazon Web Services because of massive computations involved.  
